@@ -477,7 +477,10 @@ a {
 .divFon {
 	padding-left:15%;
 	padding-right:15%;
-
+	}
+.divForm p {
+	font-size:14pt;
+	font-family:Arial;
 	}
 .rowForm {
 	margin-left:10%;
