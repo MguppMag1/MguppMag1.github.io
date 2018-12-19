@@ -420,8 +420,8 @@ a {
 .divFon {
 	padding-left:15%;
 	padding-right:15%;
-
 	}
+.form_message::placeholder {font-size:10pt;}
 .rowForm {
 	margin-left:10%;
 	margin-right:10%;
@@ -453,6 +453,7 @@ a {
 	margin-left:10%;
 	margin-right:10%;
 	}
+.form_message::placeholder {font-size:10pt;}
 .elem1 p {
 	padding-left:17%;
 	}
@@ -486,6 +487,7 @@ a {
 	margin-left:10%;
 	margin-right:10%;
 	}
+.form_message::placeholder {font-size:10pt;}
 .elem1 p {
 	padding-left:10%;
 	}
